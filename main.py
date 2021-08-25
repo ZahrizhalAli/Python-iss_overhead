@@ -6,8 +6,8 @@ import time
 # Global Variable
 MY_EMAIL = "YOUR_EMAIL"
 MY_PASS = "YOUR_PASSWORD"
-MY_LAT = -5.174839
-MY_LONG = 119.471512
+MY_LAT = YOUR_LATITUDE_IN_FLOAT
+MY_LONG = YOUR_LONGITUDE_IN_FLOAT
 
 
 def is_iss_overhead():
